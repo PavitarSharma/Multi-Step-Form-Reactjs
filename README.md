@@ -1,6 +1,6 @@
-# Multi Step Form
+# Multi-Step Form
 
-This is multi step Form. I am using Reactjs, Tailwind CSS, react-select for build multistep. I wanted to implement react-hook-form for validation. How to implemnt react-hook-form in multistep form with react-selct ad other inputs . Please implement in this code.
+This is a multi-step Form. I am using Reactjs, Tailwind CSS, and react-select for building multistep. I wanted to implement react-hook-form for validation. How to implement react-hook-form in multistep form with react-select ad other inputs. Please implement this code.
 
 ### Reactjs (Vite)
 ### react-hook-form
